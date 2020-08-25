@@ -91,7 +91,7 @@ footer {
     height: 100vh;
 }
 
-form input, textarea {
+.contact form input, textarea {
     margin-top: 15px;
 }
 .card_img{
